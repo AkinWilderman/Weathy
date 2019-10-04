@@ -49,7 +49,7 @@ public class WeatherController extends AppCompatActivity {
     ImageView mWeatherImage;
     TextView mTemperatureLabel;
 
-    // TODO: Declare a LocationManager and a LocationListener here:
+    // Declaration of LocationManager and a LocationListener
     LocationManager mLocationManager;
     LocationListener mLocationListener;
 
